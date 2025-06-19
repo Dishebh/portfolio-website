@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.65084f8f.css",
-    "main.js": "/portfolio-website/static/js/main.76a3f0c6.js",
+    "main.js": "/portfolio-website/static/js/main.e9bf7cae.js",
     "static/css/64.bba8fa55.chunk.css": "/portfolio-website/static/css/64.bba8fa55.chunk.css",
     "static/js/64.7de03e1d.chunk.js": "/portfolio-website/static/js/64.7de03e1d.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/portfolio-website/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.f6d2a9e6.chunk.js": "/portfolio-website/static/js/769.f6d2a9e6.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/portfolio-website/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/resume.pdf": "/portfolio-website/static/media/resume.96f23d989465abd448d7.pdf",
+    "static/media/resume.pdf": "/portfolio-website/static/media/resume.4d3af1899180ddc7fc78.pdf",
     "static/media/Agustina.woff": "/portfolio-website/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/nit-hamirpur-logo.png": "/portfolio-website/static/media/nit-hamirpur-logo.a0be888b5df159a4c3ff.png",
     "static/media/manOnTable.svg": "/portfolio-website/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -17,7 +17,7 @@
     "index.html": "/portfolio-website/index.html",
     "static/media/talksCardBack.svg": "/portfolio-website/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.65084f8f.css.map": "/portfolio-website/static/css/main.65084f8f.css.map",
-    "main.76a3f0c6.js.map": "/portfolio-website/static/js/main.76a3f0c6.js.map",
+    "main.e9bf7cae.js.map": "/portfolio-website/static/js/main.e9bf7cae.js.map",
     "64.bba8fa55.chunk.css.map": "/portfolio-website/static/css/64.bba8fa55.chunk.css.map",
     "64.7de03e1d.chunk.js.map": "/portfolio-website/static/js/64.7de03e1d.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/portfolio-website/static/css/769.b3cbb36b.chunk.css.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.65084f8f.css",
-    "static/js/main.76a3f0c6.js"
+    "static/js/main.e9bf7cae.js"
   ]
 }
